@@ -1,7 +1,7 @@
 [
     {"nama": "Persegi", "jumlahSudut": "4", "rumusLuas": "sisi x sisi", "rumusKeliling": "4 x sisi", "imageId": "persegi"},
     {"nama": "Persegi Panjang", "jumlahSudut": "4", "rumusLuas": "1/2 alas x tinggi", "rumusKeliling": "sisi + sisi + sisi", "imageId": "persegipanjang"},
-    {"nama": "Segitiga", "jumlahSudut": "3", "rumusLuas": "sisi x sisi", "rumusKeliling": "4 x sisi", "imageId": "segitiga.jpg"},
+    {"nama": "Segitiga", "jumlahSudut": "3", "rumusLuas": "sisi x sisi", "rumusKeliling": "4 x sisi", "imageId": "segitiga"},
     {"nama": "Trapesium", "jumlahSudut": "4", "rumusLuas": "1/2 (a + b) x tinggi", "rumusKeliling": "sisi + sisi + sisi + sisi", "imageId": "trapesium"},
     {"nama": "Lingkaran", "jumlahSudut": "0", "rumusLuas": "π x r x r", "rumusKeliling": "π x diameter", "imageId": "lingkaran"},
     {"nama": "Jajar Genjang", "jumlahSudut": "4", "rumusLuas": "alas x tinggi", "rumusKeliling": "sisi + sisi + sisi + sisi", "imageId": "jajargenjang"},
